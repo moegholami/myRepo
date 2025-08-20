@@ -22,3 +22,5 @@ git config --global init.defaultBranch main #this is very common to use instead 
 
 #Pay attention to the current .git folder content, especially the objects folder
 git add .
+
+new LINE
