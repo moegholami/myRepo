@@ -24,3 +24,6 @@ git config --global init.defaultBranch main #this is very common to use instead 
 git add .
 
 new LINE
+
+
+New Line added in github
