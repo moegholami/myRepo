@@ -158,7 +158,7 @@ git status #Note the delete is staged
 ls #its gone from stage AND my working
 git commit -m "removed testfile4.txt"
 
-
+.
 #Resetting WB09
 #Remove all staged content. This is actually using --mixed which is default. More later
 git reset
