@@ -42,7 +42,7 @@ jobs:
           else
             echo "❌ Secret does not match"
           fi
-deploy-uat:
+  deploy-uat:
     runs-on: ubuntu-latest          
     environment: uat
     # Steps represent a sequence of tasks that will be executed as part of the job
