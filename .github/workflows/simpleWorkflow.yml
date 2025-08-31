@@ -37,7 +37,7 @@ jobs:
           echo Line added by Moe
           echo Line added by Moe from GitHub
           echo ${{ secrets.MY_FIRST_SECRET }}
-          if [  ${{ secrets.MY_FIRST_SECRET }} = "prod_secret" ]; then
+          if [  ${{ secrets.MY_FIRST_SECRET }} = "prod_secrete" ]; then
             echo "✅ Secret matches expected value"
           else
             echo "❌ Secret does not match"
