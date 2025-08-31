@@ -36,3 +36,4 @@ jobs:
           echo test, and deploy your project.
           echo Line added by Moe
           echo Line added by Moe from GitHub
+          echo ${{ secrets.MY_FIRST_SECRET }}
